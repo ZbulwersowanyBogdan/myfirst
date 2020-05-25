@@ -1,2 +1,2 @@
-print("hello") 
-print("xDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD")
+import os
+os.system(sudo docker ps -a)
