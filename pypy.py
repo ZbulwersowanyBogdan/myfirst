@@ -1,2 +1,2 @@
 import os
-os.system(sudo docker ps -a)
+os.system('sudo docker ps -a')
